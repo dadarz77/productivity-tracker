@@ -1,12 +1,11 @@
-# 🧠 AI-Augmented Decision Intelligence System
+# AI-Augmented Decision Intelligence System
 
 An intelligent web-based system that helps users make **better, faster, and more informed decisions** using Artificial Intelligence.
 
 The platform analyzes decisions from multiple perspectives—financial, emotional, logical, and strategic—and provides personalized recommendations based on the user’s role or profession.
 
----
 
-## 🚀 Overview
+##  Overview
 
 The **AI-Augmented Decision Intelligence System** empowers users to improve decision-making skills over time by combining AI reasoning with behavioral tracking.
 
@@ -14,18 +13,16 @@ Users select their role (student, teacher, engineer, entrepreneur, etc.), descri
 
 The system evaluates decisions across:
 
-- 📊 Financial impact  
-- ⚠️ Risk level  
-- ⏳ Time management  
-- 🚀 Productivity effects  
-- ❤️ Emotional impact  
-- 📈 Long-term consequences  
+- Financial impact  
+-  Risk level  
+-  Time management  
+-  Productivity effects  
+-  Emotional impact  
+-  Long-term consequences  
 
----
+##  Key Features
 
-## ✨ Key Features
-
-### 👤 Role-Based Personalization
+###  Role-Based Personalization
 Users choose a category such as:
 - Student
 - Teacher
@@ -37,9 +34,9 @@ Users choose a category such as:
 
 The AI adapts responses based on the selected role.
 
----
 
-### 🤖 AI-Powered Decision Engine
+
+###🤖 AI-Powered Decision Engine
 The system uses AI models (e.g. OpenAI API) to generate:
 
 - Smart recommendations  
@@ -49,7 +46,7 @@ The system uses AI models (e.g. OpenAI API) to generate:
 
 ---
 
-### 🔍 Multi-Perspective Decision Analysis
+###  Multi-Perspective Decision Analysis
 Every decision is analyzed from multiple angles:
 
 - ✔ Advantages & disadvantages  
@@ -60,7 +57,7 @@ Every decision is analyzed from multiple angles:
 
 ---
 
-### 📊 Progress Tracking System
+###  Progress Tracking System
 Users can:
 
 - Save decisions  
@@ -71,7 +68,7 @@ Users can:
 
 ---
 
-### 🎨 Modern UI/UX
+###  Modern UI/UX
 - Clean and responsive dashboard  
 - Mobile-friendly design  
 - Interactive charts  
@@ -80,7 +77,7 @@ Users can:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - HTML  
@@ -99,8 +96,6 @@ Users can:
 ### Database
 - MongoDB / Firebase  
 
----
-
 ## ⚙️ How It Works
 
 1. User signs up or logs in  
@@ -110,11 +105,9 @@ Users can:
 5. System generates multi-perspective advice  
 6. User saves decisions and tracks progress  
 
----
+##  Example Use Cases
 
-## 💡 Example Use Cases
-
-### 🎓 Student Decision
+###  Student Decision
 > “Should I focus on programming or networking?”
 
 AI evaluates:
@@ -123,9 +116,7 @@ AI evaluates:
 - Industry demand  
 - Time investment  
 
----
-
-### 💼 Entrepreneur Decision
+###  Entrepreneur Decision
 > “Should I invest in marketing or product development first?”
 
 AI evaluates:
@@ -136,18 +127,16 @@ AI evaluates:
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
-- 🎙️ Voice assistant integration  
-- 🤝 Real-time collaboration between users  
-- 📱 Mobile app version  
-- 📊 Advanced analytics dashboard  
-- 🧠 Personalized learning AI model  
-- 🔔 Smart decision reminders  
-
----
-
-## 🧑‍💻 Installation
+-  Voice assistant integration  
+-  Real-time collaboration between users  
+-  Mobile app version  
+-  Advanced analytics dashboard  
+-  Personalized learning AI model  
+-  Smart decision reminders  
+ 
+## Installation
 
 ```bash
 git clone https://github.com/dadarz77/productivity-tracker
